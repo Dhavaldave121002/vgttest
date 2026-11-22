@@ -1,0 +1,3 @@
+@echo off
+echo Opening Vertex Global Tech Ahmedabad Web Design Page...
+start "" "%~dp0public\preview.html"
